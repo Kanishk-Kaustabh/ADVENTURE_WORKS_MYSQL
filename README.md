@@ -45,7 +45,7 @@ It includes data cleaning, schema corrections, KPI calculations, and generating 
 ## MYSQL QUERIES
 
 Dashboard Interaction <a href="https://github.com/Kanishk-Kaustabh/ADVENTURE_WORKS_MYSQL/blob/main/MYSQL_QUERIES_1.png">View Dashboard</a>
-Dashboard Interaction <a href="">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Kanishk-Kaustabh/ADVENTURE_WORKS_MYSQL/blob/main/MYSQL_QUERIES_2.png">View Dashboard</a>
 
 
 <img width="1082" height="642" alt="MYSQL_QUERIES_1" src="https://github.com/user-attachments/assets/f9c24249-3378-41b7-b637-5c2aa31c1c0c" />
